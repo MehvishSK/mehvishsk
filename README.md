@@ -34,8 +34,6 @@
 
 I’m passionate about making learning accessible and enjoyable for every child!
 
----
-
 <!-- Optionally add your social links below! -->
 <!--
 ## 🌐 Connect with Me
@@ -45,6 +43,5 @@ I’m passionate about making learning accessible and enjoyable for every child!
 - [Personal Website](YOUR-WEBSITE-URL)
 -->
 
----
 
 > “Education is the most powerful weapon which you can use to change the world.” – Nelson Mandela
