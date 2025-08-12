@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MehvishSK!
+# 👋 Hi, I'm Mehvish Shaikh!
 
 🌱 Currently pursuing a **Post Graduate Diploma in Early Childhood Development (PGDECD)**  
 🎨 Passionate about **UI/UX Design** and exploring the world of **Python programming**
